@@ -8,7 +8,7 @@ Aspiring to become useful at the highest level.
 </br>
 
 ---
-### About the projects
+### About my projects
 </br>
 
 - :black_joker: **Jacks or Higher (Gamemaker) -** Video poker game for Android, made for Father's day.
