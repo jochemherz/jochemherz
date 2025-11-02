@@ -9,10 +9,23 @@ I am aspiring to become useful at the highest level.  </br></br>
 </br>
 
 - :black_joker: **Jacks or Higher (Gamemaker) -** Video poker game for Android, made for Father's day.
-- :soccer: **Othello (Processing) -** A 2-Player boardgame for Android.
+- :soccer: **Othello (Processing) -** A fun 2-Player boardgame for Android.
 - :capital_abcd: **ASCII Converter (Processing) -** Turns images and GIFs into ASCII art.
 - :surfer: **Surfin' (Gamemaker) -** Topdown prototype featuring some cool tricks. Surf's up!
-- :electron: **Warehouse Manager (Python) -** Inventory app for managing and ordering items *(in progress)*
+- :twisted_rightwards_arrows: **Warehouse Manager (Python) -** Inventory app for managing and ordering items *(in progress)*
+
+</br>
+
+---
+### Skills
+</br>
+
+- :electron: **Programming Languages -** Python, Java, GameMaker Language
+- :hammer_and_wrench: **Tools -** Processing, Gamemaker, Kivy, IntelliJ, Spring Boot, Git, JSON
+- :brain: **Creative -** Music composition, sound design, creative problem solving, creative writing, visual design
+- :eye_speech_bubble: **Natural Languages -** English, Dutch, Catalan, Spanish + some Japanese (around N3 level)
+- :customs: **Learning -** GLSL, OpenGL, Japanese
+
 </br>
 
 ---
