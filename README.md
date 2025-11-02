@@ -36,7 +36,6 @@ Aspiring to become useful at the highest level.
 </br>
 
 I'm fascinated by the world of possibilities technology offers to art, but I could only really begin learning to code by making games and small tools for others.  
-</br>
 Still learning - quick to pick things up and eager to solve problems.  
 </br>
 Open to any challenge.
