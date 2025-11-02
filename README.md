@@ -1,8 +1,11 @@
 ## Hi there, I'm Jochem Herz 👋
 </br>
-I love bringing unique creations to life. I'm always curious about finding new ways art to code and viceversa.  </br>
+
+I love bringing unique creations to life. I'm always curious about finding new ways code translates to art and vice versa.  </br>
 Although most of my completed projects are quite simple and unremarkable, each one has taught me a ton.  </br>
-I am aspiring to become useful at the highest level.  </br></br>
+Aspiring to become useful at the highest level.
+
+</br>
 
 ---
 ### About the projects
@@ -30,3 +33,14 @@ I am aspiring to become useful at the highest level.  </br></br>
 
 ---
 ### About me
+</br>
+
+I'm fascinated by the world of possibilities technology offers to art, but I could only really begin learning to code by making games and small tools for others.  
+</br>
+Still learning - quick to pick things up and eager to solve problems.  
+</br>
+Open to any challenge.
+
+</br>
+
+:mailbox_with_mail: **e-mail :** jochemherz@gmail.com
